@@ -7,3 +7,12 @@ for xxx.topschool.com.tw domain
 * school id
 * classroom id
 * index page number
+
+# Linux Bash script
+
+# commands
+* clone this git repo
+* cd bin
+* bash all.sh
+
+# have fun
